@@ -1,0 +1,6 @@
+tuesday entry:10.20 
+exit 7.20
+
+
+wednesday entry 10.10
+exit 7.25
